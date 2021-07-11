@@ -3,7 +3,7 @@
 {"city" : "Brooklyn", "mascot" : "Winter Soldier", "short" : "BUK", "homeText" : "9a9a9a", "homeMain" : "313131", "homeSecondary" : "b81516", "awayText" : "313131", "awayMain" : "FFFFFF", "awaySecondary" : "6f6f6f"},
 {"city" : "Stark Tower", "mascot" : "Vision", "short" : "VIS", "homeText" : "FFFFFF", "homeMain" : "622d3a", "homeSecondary" : "Fff200", "awayText" : "622d3a", "awayMain" : "FFFFFF", "awaySecondary" : "5b605c"},
 {"city" : "Hells Kitchen", "mascot" : "Daredevil", "short" : "DEV", "homeText" : "FFFFFF", "homeMain" : "cc0033", "homeSecondary" : "333333", "awayText" : "cc0033", "awayMain" : "FFFFFF", "awaySecondary" : "333333"},
-{"city" : "Manhattan", "mascot" : "Iron Man", "short" : "IRN", "homeText" : "fbca03", "homeMain" : "6a0c0c", "homeSecondary" : "ba7e10", "awayText" : "#6a0c0c", "awayMain" : "FFFFFF", "awaySecondary" : "ba7e10"},
+{"city" : "Manhattan", "mascot" : "Iron Man", "short" : "IRN", "homeText" : "fbca03", "homeMain" : "6a0c0c", "homeSecondary" : "ba7e10", "awayText" : "6a0c0c", "awayMain" : "FFFFFF", "awaySecondary" : "ba7e10"},
 {"city" : "Brooklyn", "mascot" : "Captain America", "short" : "CPT", "homeText" : "FFFFFF", "homeMain" : "012d5c", "homeSecondary" : "860000", "awayText" : "012d5c", "awayMain" : "FFFFFF", "awaySecondary" : "860000"},
 {"city" : "Mid Town", "mascot" : "Human Torch", "short" : "H T", "homeText" : "FFFFFF", "homeMain" : "ed9c18", "homeSecondary" : "ffe544", "awayText" : "da711f", "awayMain" : "FFFFFF", "awaySecondary" : "ffe544"},
 {"city" : "Williamsburg", "mascot" : "Punisher", "short" : "PUN", "homeText" : "FFFFFF", "homeMain" : "060606", "homeSecondary" : "95aeb2", "awayText" : "060606", "awayMain" : "FFFFFF", "awaySecondary" : "95aeb2"},
